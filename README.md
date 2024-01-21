@@ -1,4 +1,5 @@
 ![Alternatif Metin](https://i.giphy.com/j5qJelqTluLtt8imyU.webp)
+![Alternatif Metin](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I4YjBsOTJqdXZmNjc2ZWd4aDd4cmphcTRrdjR0dmN6ZTAxNHkwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cprA0r3xcSvHiRC3TM/giphy.gif)
 
 # :question: What is this project
 This is school project to learn algorithms. Maze creator, generator and solver.
