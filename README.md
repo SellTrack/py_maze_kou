@@ -1,5 +1,4 @@
 ![Alternatif Metin](https://i.giphy.com/j5qJelqTluLtt8imyU.webp)
-![Alternatif Metin](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I4YjBsOTJqdXZmNjc2ZWd4aDd4cmphcTRrdjR0dmN6ZTAxNHkwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cprA0r3xcSvHiRC3TM/giphy.gif)
 
 # :question: What is this project
 This is school project to learn algorithms. Maze creator, generator and solver.
@@ -16,6 +15,10 @@ This is school project to learn algorithms. Maze creator, generator and solver.
  # :large_blue_diamond: About Project
  This is maze generator, creator and solver. You can generate maze with dedicated matrice, then solve it. Or create compeletly random maze and then solve it.
 
+ here is an example. firstly it randomly travels squares and randolmy creates walls. Then starts one corner and and tries to go reach another corner. At last highlights the path.
+
+ ![Alternatif Metin](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I4YjBsOTJqdXZmNjc2ZWd4aDd4cmphcTRrdjR0dmN6ZTAxNHkwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cprA0r3xcSvHiRC3TM/giphy.gif)
+ 
  # :sparkles: What i learned from this
  I developed my problem solving skills and learned sorting algorithms such as: 
 
