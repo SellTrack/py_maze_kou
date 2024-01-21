@@ -1,0 +1,1 @@
+![Alternatif Metin](https://i.giphy.com/j5qJelqTluLtt8imyU.webp)
