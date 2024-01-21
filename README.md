@@ -15,12 +15,15 @@ This is school project to learn algorithms. Maze creator, generator and solver.
  # :large_blue_diamond: About Project
  This is maze generator, creator and solver. You can generate maze with dedicated matrice, then solve it. Or create compeletly random maze and then solve it.
 
- # :sparkle: What i learned from this
- I developed my problem solving skills and learned sorting algorithms such as 
+ # :sparkles: What i learned from this
+ I developed my problem solving skills and learned sorting algorithms such as: 
 
  :white_check_mark: Depth First Search
+
  :white_check_mark: Breath First Search
+
  :white_check_mark: Dijkstra's Algorithm
+
  :white_check_mark: A-Star Algorithm
 
 
